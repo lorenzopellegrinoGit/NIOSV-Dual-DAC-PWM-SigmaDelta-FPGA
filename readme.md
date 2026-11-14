@@ -33,7 +33,7 @@ NIOSV-Dual-DAC-PWM-SigmaDelta-FPGA/
 ├── Core-Firmware/
 │   ├── keyboard.c                        # Interactive JTAG-UART firmware for static DC voltage & frequency control
 │   └── sine.c                            # Timer-IRQ driven firmware for real-time sinusoidal waveform synthesis
-├── images/
+├── Immagini/
 │   ├── Complete system.png               # Top-level block diagram of Nios V/m and dual DAC peripherals
 │   ├── ppm_block_diagram.png             # Conceptual block diagram of the 1st-order Sigma-Delta (PPM) loop
 │   └── RTL_viewer_ppm_dac.png            # Quartus Prime RTL Viewer schematic of the synthesized PPM DAC
